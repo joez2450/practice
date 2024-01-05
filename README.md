@@ -3,5 +3,5 @@ is
 both
 great
 and
-bad
+awesome
 text!
