@@ -4,4 +4,4 @@ both
 great
 and
 good
-text
+text!
