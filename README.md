@@ -1,7 +1,7 @@
-that
+this
 is
 both
 great
 and
-good
+bad
 text!
