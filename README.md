@@ -1,7 +1,4 @@
-theres
+this
 is
-both
-great
-and
-horrible
-text!!!
+practice
+README.md
