@@ -1,7 +1,6 @@
-The
-best
-flavor
-of
-ice cream
+Today
 is
-cookies and cream
+a
+fabulous
+day
+
