@@ -1,6 +1,5 @@
-Today
-is
+Yesterday
+was
 a
-fabulous
+nice
 day
-
